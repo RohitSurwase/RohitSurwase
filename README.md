@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Rohit Surwase 👋  
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/RohitSurw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRohitSurwase&screen_name=RohitSurwase)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/RohitSurw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRohitSurwase&screen_name=RohitSurw)  
   
 #### I'm a Techie by Birth.
 ##### ...Writer by Hobby.
