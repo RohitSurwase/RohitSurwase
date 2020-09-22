@@ -37,4 +37,4 @@
   
 [medium]: https://medium.com/@rohitss
 [twitter]: https://twitter.com/RohitSurw  
-[linkedin]: https://linkedin.com/in/rohitss5  
+[linkedin]: https://www.linkedin.com/in/rohitss5/  
