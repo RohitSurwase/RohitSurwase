@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/rohitsurw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohitsurw" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/rohitss5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohitss5" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/rohit-surwase" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rohit-surwase" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/5768459" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5768459" height="30" width="30" /></a>
 <a href="https://medium.com/@rohitss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rohitss" height="30" width="30" /></a>
 </p>
  
