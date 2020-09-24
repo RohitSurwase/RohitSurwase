@@ -32,6 +32,7 @@
 ### 📕 Latest Blog Posts  
   
 <!-- BLOG-POST-LIST:START -->
+- [Best Architecture For Android : MVI + LiveData + ViewModel = ❤️](https://proandroiddev.com/best-architecture-for-android-mvi-livedata-viewmodel-71a3a5ac7ee3?source=rss-6d6a65c4e6fa------2)
 <!-- BLOG-POST-LIST:END -->  
   
 ➡️ [more blog posts...](https://medium.com/@rohitss)  
