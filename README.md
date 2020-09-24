@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rohit Surwase</h1>
 <h3 align="left">A passionate Android App developer from India</h3>
 
-- 📝 I write articles on [http://medium.com/@rohitss/](http://medium.com/@rohitss/)
+📝 I write articles on [http://medium.com/@rohitss/](http://medium.com/@rohitss/)
   
 ### Connect with me:  
 
