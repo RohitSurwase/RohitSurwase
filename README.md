@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm Rohit Surwase</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h1 align="left">Hi 👋, I'm Rohit Surwase</h1>
+<h3 align="left">A passionate Android App developer from India</h3>
 
-- 📝 I regulary write articles on [http://medium.com/@rohitss/](http://medium.com/@rohitss/)
+- 📝 I write articles on [http://medium.com/@rohitss/](http://medium.com/@rohitss/)
   
 ### Connect with me:  
 
@@ -19,7 +19,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsurwase&layout=compact" alt="rohitsurwase" /></p>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/></p>
 
----  
+
+---
+---
+---
   
 ### 📕 Latest Blog Posts  
   
